@@ -3,6 +3,8 @@
 
 **Hello,** my name is *Lucy Gai* and I am a Computer Science student at ~~Zoom University~~ **The University of California, _San Diego_.** 
 
+![image](/cs.jpg)
+
 A Pierre Omidyar quote:
 > We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people.
 
@@ -38,12 +40,19 @@ Some of the things I enjoy doing in my spare time include:
 * Playing LoL
 
 Some of my favorite anime are:
-1. Haikyuu!!
+- *Haikyuu!!*
    - Hype volleyball matches
    - Themes of friendship, healthy competition, rivalry, etc.
-2. Death Note 
+- *Death Note*
    - Intellectually stimulating 
    - Themes of morality, justice, etc.
-3. Code Geass
+- *Code Geass*
    - Suspenseful action
    - More mind games 
+   
+Some musical artists I like listening to:
+1. EXO
+2. The Neighborhood
+3. (G)I-DLE
+4. Zayn
+
