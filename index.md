@@ -34,10 +34,10 @@ Languages/skills I use or plan to learn:
 
 ## Hobbies
 Some of the things I enjoy doing in my spare time include:
-* Watching anime
-* Listening to music
-* Traveling when not in quarantine 
-* Playing LoL
+* Watching anime :tv:
+* Listening to music :headphones:
+* Traveling when not in quarantine :world_map:
+* Playing LoL :video_game:
 
 Some of my favorite anime are:
 - *Haikyuu!!*
@@ -56,3 +56,5 @@ Some musical artists I like listening to:
 3. (G)I-DLE
 4. Zayn
 
+
+:fish: :fish: :fish: :fish: :fish: :fish: :fish:
